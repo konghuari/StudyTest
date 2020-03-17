@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb7b99b1-1edd-4e6e-95f9-147bc126de51" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="/Library/apache-maven-3.5.3/conf-brk/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YI0EqfJLsTwVivZgTGJmNu20yo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khr.test.App" />
+      <module name="StudyTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khr.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T02_TestUnsafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khr.test.T02_TestUnsafe" />
+      <module name="StudyTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khr.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUnsafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.khr.test.TestUnsafe" />
+      <module name="StudyTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khr.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudyTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.khr.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.khr.test" />
+      <option name="MAIN_CLASS_NAME" value="com.khr.test.AppTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.TestUnsafe" />
+        <item itemvalue="JUnit.AppTest.test" />
+        <item itemvalue="Application.T02_TestUnsafe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb7b99b1-1edd-4e6e-95f9-147bc126de51" name="Default Changelist" comment="" />
+      <created>1582614691330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582614691330</updated>
+      <workItem from="1582614693507" duration="630000" />
+      <workItem from="1582615412475" duration="424000" />
+      <workItem from="1582615948383" duration="258000" />
+      <workItem from="1582616238004" duration="60000" />
+      <workItem from="1582616326121" duration="102000" />
+      <workItem from="1582616457660" duration="3212000" />
+      <workItem from="1582626448848" duration="2036000" />
+      <workItem from="1582800708664" duration="4173000" />
+      <workItem from="1582982622205" duration="75000" />
+      <workItem from="1582982705255" duration="338000" />
+      <workItem from="1582983728949" duration="1615000" />
+      <workItem from="1584331467509" duration="1562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="34" key="#Notifications" timestamp="1582617180042">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="34" key="#Notifications/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582617180042" />
+    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582982871101">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582982871101" />
+    <state x="0" y="0" width="946" height="900" key="CommitChangelistDialog2" timestamp="1584421892490">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" width="946" height="900" key="CommitChangelistDialog2/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1584421892490" />
+    <state width="1388" height="222" key="GridCell.Tab.0.bottom" timestamp="1583118365107">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900/-246.-1057.1920.1057@0.0.1440.900" timestamp="1583118365107" />
+    <state width="1385" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582707809729" />
+    <state width="1388" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583056249631" />
+    <state width="1385" height="222" key="GridCell.Tab.0.bottom/0.23.1440.836/-246.-1057.1920.1057@0.23.1440.836" timestamp="1582626133704" />
+    <state width="1388" height="222" key="GridCell.Tab.0.center" timestamp="1583118365105">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="222" key="GridCell.Tab.0.center/0.0.1440.900/-246.-1057.1920.1057@0.0.1440.900" timestamp="1583118365105" />
+    <state width="1385" height="222" key="GridCell.Tab.0.center/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582707809726" />
+    <state width="1388" height="222" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583056249629" />
+    <state width="1385" height="222" key="GridCell.Tab.0.center/0.23.1440.836/-246.-1057.1920.1057@0.23.1440.836" timestamp="1582626133700" />
+    <state width="1388" height="222" key="GridCell.Tab.0.left" timestamp="1583118365104">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="222" key="GridCell.Tab.0.left/0.0.1440.900/-246.-1057.1920.1057@0.0.1440.900" timestamp="1583118365104" />
+    <state width="1385" height="222" key="GridCell.Tab.0.left/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582707809723" />
+    <state width="1388" height="222" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583056249627" />
+    <state width="1385" height="222" key="GridCell.Tab.0.left/0.23.1440.836/-246.-1057.1920.1057@0.23.1440.836" timestamp="1582626133695" />
+    <state width="1388" height="222" key="GridCell.Tab.0.right" timestamp="1583118365106">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1388" height="222" key="GridCell.Tab.0.right/0.0.1440.900/-246.-1057.1920.1057@0.0.1440.900" timestamp="1583118365106" />
+    <state width="1385" height="222" key="GridCell.Tab.0.right/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582707809727" />
+    <state width="1388" height="222" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583056249630" />
+    <state width="1385" height="222" key="GridCell.Tab.0.right/0.23.1440.836/-246.-1057.1920.1057@0.23.1440.836" timestamp="1582626133702" />
+    <state x="113" y="23" key="SettingsEditor" timestamp="1582616297248">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="113" y="23" key="SettingsEditor/0.23.1440.830/-246.-1057.1920.1057@0.23.1440.830" timestamp="1582616297248" />
+    <state x="485" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584421056620">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="485" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1584421056620" />
+    <state x="301" y="23" width="838" height="952" key="search.everywhere.popup" timestamp="1582980989938">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582887242913" />
+    <state x="301" y="23" width="838" height="952" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1582980989938" />
+  </component>
+</project>
