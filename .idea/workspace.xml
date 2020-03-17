@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7b99b1-1edd-4e6e-95f9-147bc126de51" name="Default Changelist" comment="" />
+    <list default="true" id="cb7b99b1-1edd-4e6e-95f9-147bc126de51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khr/test/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khr/test/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -187,10 +189,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582982871101" />
-    <state x="0" y="0" width="946" height="900" key="CommitChangelistDialog2" timestamp="1584421892490">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="0" y="23" width="946" height="900" key="CommitChangelistDialog2" timestamp="1584422983728">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="0" y="0" width="946" height="900" key="CommitChangelistDialog2/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1584421892490" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1440.829/-246.-1057.1920.1057@0.23.1440.829" timestamp="1584422983728" />
     <state width="1388" height="222" key="GridCell.Tab.0.bottom" timestamp="1583118365107">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
