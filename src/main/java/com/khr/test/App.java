@@ -15,8 +15,6 @@ import java.nio.ByteOrder;
  * bug3
  *
  *
- * 提交bug3
- *
  *
  *
  */
