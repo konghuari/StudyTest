@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7b99b1-1edd-4e6e-95f9-147bc126de51" name="Default Changelist" comment="" />
+    <list default="true" id="cb7b99b1-1edd-4e6e-95f9-147bc126de51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/khr/test/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khr/test/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,59 +180,25 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="220" y="34" key="#Notifications" timestamp="1582617180042">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="483" y="-923" key="#com.intellij.ide.util.MemberChooser" timestamp="1611816858223">
+      <screen x="-246" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="220" y="34" key="#Notifications/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582617180042" />
-    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582982871101">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="483" y="-923" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-246.-1080.1920.1080@-246.-1080.1920.1080" timestamp="1611816858223" />
+    <state x="241" y="-1000" key="CommitChangelistDialog2" timestamp="1611816869649">
+      <screen x="-246" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="184" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1582982871101" />
-    <state x="0" y="0" width="946" height="900" key="CommitChangelistDialog2" timestamp="1584421892490">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="0" y="0" width="946" height="900" key="CommitChangelistDialog2/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1584421892490" />
-    <state width="1388" height="222" key="GridCell.Tab.0.bottom" timestamp="1583118365107">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1388" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900/-246.-1057.1920.1057@0.0.1440.900" timestamp="1583118365107" />
-    <state width="1385" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582707809729" />
-    <state width="1388" height="222" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583056249631" />
-    <state width="1385" height="222" key="GridCell.Tab.0.bottom/0.23.1440.836/-246.-1057.1920.1057@0.23.1440.836" timestamp="1582626133704" />
-    <state width="1388" height="222" key="GridCell.Tab.0.center" timestamp="1583118365105">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1388" height="222" key="GridCell.Tab.0.center/0.0.1440.900/-246.-1057.1920.1057@0.0.1440.900" timestamp="1583118365105" />
-    <state width="1385" height="222" key="GridCell.Tab.0.center/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582707809726" />
-    <state width="1388" height="222" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583056249629" />
-    <state width="1385" height="222" key="GridCell.Tab.0.center/0.23.1440.836/-246.-1057.1920.1057@0.23.1440.836" timestamp="1582626133700" />
-    <state width="1388" height="222" key="GridCell.Tab.0.left" timestamp="1583118365104">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1388" height="222" key="GridCell.Tab.0.left/0.0.1440.900/-246.-1057.1920.1057@0.0.1440.900" timestamp="1583118365104" />
-    <state width="1385" height="222" key="GridCell.Tab.0.left/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582707809723" />
-    <state width="1388" height="222" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583056249627" />
-    <state width="1385" height="222" key="GridCell.Tab.0.left/0.23.1440.836/-246.-1057.1920.1057@0.23.1440.836" timestamp="1582626133695" />
-    <state width="1388" height="222" key="GridCell.Tab.0.right" timestamp="1583118365106">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1388" height="222" key="GridCell.Tab.0.right/0.0.1440.900/-246.-1057.1920.1057@0.0.1440.900" timestamp="1583118365106" />
-    <state width="1385" height="222" key="GridCell.Tab.0.right/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582707809727" />
-    <state width="1388" height="222" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583056249630" />
-    <state width="1385" height="222" key="GridCell.Tab.0.right/0.23.1440.836/-246.-1057.1920.1057@0.23.1440.836" timestamp="1582626133702" />
-    <state x="113" y="23" key="SettingsEditor" timestamp="1582616297248">
-      <screen x="0" y="23" width="1440" height="830" />
-    </state>
-    <state x="113" y="23" key="SettingsEditor/0.23.1440.830/-246.-1057.1920.1057@0.23.1440.830" timestamp="1582616297248" />
-    <state x="485" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584421056620">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="485" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1584421056620" />
-    <state x="301" y="23" width="838" height="952" key="search.everywhere.popup" timestamp="1582980989938">
-      <screen x="0" y="23" width="1440" height="830" />
-    </state>
-    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/-246.-1080.1920.1080@0.0.1440.900" timestamp="1582887242913" />
-    <state x="301" y="23" width="838" height="952" key="search.everywhere.popup/0.23.1440.830@0.23.1440.830" timestamp="1582980989938" />
+    <state x="241" y="-1000" key="CommitChangelistDialog2/0.0.1440.900/-246.-1080.1920.1080@-246.-1080.1920.1080" timestamp="1611816869649" />
   </component>
 </project>
