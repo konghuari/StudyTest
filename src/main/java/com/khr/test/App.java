@@ -15,14 +15,14 @@ import java.nio.ByteOrder;
 public class App
 
 {
-    private String domain;
+    private String domains;
 
-    public String getDomain() {
-        return domain;
+    public String getDomains() {
+        return domains;
     }
 
-    public void setDomain(String domain) {
-        this.domain = domain;
+    public void setDomains(String domains) {
+        this.domains = domains;
     }
 
     public static void main(String[] args )

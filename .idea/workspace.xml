@@ -192,13 +192,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="483" y="-923" key="#com.intellij.ide.util.MemberChooser" timestamp="1611816858223">
+    <state x="483" y="-923" key="#com.intellij.ide.util.MemberChooser" timestamp="1611817421838">
       <screen x="-246" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="483" y="-923" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-246.-1080.1920.1080@-246.-1080.1920.1080" timestamp="1611816858223" />
+    <state x="483" y="-923" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-246.-1080.1920.1080@-246.-1080.1920.1080" timestamp="1611817421838" />
     <state x="241" y="-1000" key="CommitChangelistDialog2" timestamp="1611816869649">
       <screen x="-246" y="-1080" width="1920" height="1080" />
     </state>
     <state x="241" y="-1000" key="CommitChangelistDialog2/0.0.1440.900/-246.-1080.1920.1080@-246.-1080.1920.1080" timestamp="1611816869649" />
+    <state x="214" y="-863" key="Vcs.Push.Dialog.v2" timestamp="1611817047195">
+      <screen x="-246" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="214" y="-863" key="Vcs.Push.Dialog.v2/0.0.1440.900/-246.-1080.1920.1080@-246.-1080.1920.1080" timestamp="1611817047195" />
   </component>
 </project>
