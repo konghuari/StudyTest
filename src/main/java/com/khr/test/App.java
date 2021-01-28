@@ -20,7 +20,7 @@ public class App
     private String set02;
     private String set03;
     private String set04;
-
+    private String set05;
     public String getSet01() {
         return set01;
     }
