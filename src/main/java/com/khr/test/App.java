@@ -18,6 +18,8 @@ public class App
     private String domains;
     private String set01;
     private String set02;
+    private String set03;
+
 
     public String getDomains() {
         return domains;
