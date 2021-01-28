@@ -16,6 +16,7 @@ public class App
 
 {
     private String domains;
+    private String set01;
 
     public String getDomains() {
         return domains;
