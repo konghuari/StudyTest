@@ -17,44 +17,6 @@ public class App
 {
     private String domains;
     private String set01;
-<<<<<<< HEAD
-    private String set02;
-    private String set03;
-    private String set04;
-    private String set05;
-    public String getSet01() {
-        return set01;
-    }
-
-    public void setSet01(String set01) {
-        this.set01 = set01;
-    }
-
-    public String getSet02() {
-        return set02;
-    }
-
-    public void setSet02(String set02) {
-        this.set02 = set02;
-    }
-
-    public String getSet03() {
-        return set03;
-    }
-
-    public void setSet03(String set03) {
-        this.set03 = set03;
-    }
-
-    public String getSet04() {
-        return set04;
-    }
-
-    public void setSet04(String set04) {
-        this.set04 = set04;
-    }
-=======
->>>>>>> parent of 38a9e2d... 第二次提交
 
     public String getDomains() {
         return domains;
