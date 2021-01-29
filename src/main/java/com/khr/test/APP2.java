@@ -20,4 +20,5 @@ package com.khr.test;
  * @version 1.0.0
  */
 public class APP2 {
+    private String  bug1;
 }
