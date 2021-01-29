@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb7b99b1-1edd-4e6e-95f9-147bc126de51" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/khr/test/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/khr/test/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="cb7b99b1-1edd-4e6e-95f9-147bc126de51" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,9 +39,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.App">
@@ -174,6 +172,8 @@
       <workItem from="1582982705255" duration="338000" />
       <workItem from="1582983728949" duration="1615000" />
       <workItem from="1584331467509" duration="1562000" />
+      <workItem from="1611826669893" duration="567000" />
+      <workItem from="1611829522210" duration="888000" />
     </task>
     <servers />
   </component>
@@ -185,7 +185,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -200,6 +202,11 @@
       <screen x="-246" y="-1080" width="1920" height="1080" />
     </state>
     <state x="241" y="-1000" key="CommitChangelistDialog2/0.0.1440.900/-246.-1080.1920.1080@-246.-1080.1920.1080" timestamp="1611816869649" />
+    <state x="74" y="-1057" width="1517" height="897" key="SettingsEditor" timestamp="1611829481228">
+      <screen x="-246" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="74" y="-1057" width="1517" height="897" key="SettingsEditor/0.0.1440.900/-246.-1080.1920.1080@-246.-1080.1920.1080" timestamp="1611829481228" />
+    <state x="74" y="-1061" key="SettingsEditor/0.23.1440.877/-246.-1080.1920.1080@-246.-1080.1920.1080" timestamp="1611823073697" />
     <state x="520" y="-892" key="VCS.ChangeListViewerDialog" timestamp="1611822462287">
       <screen x="-246" y="-1080" width="1920" height="1080" />
     </state>

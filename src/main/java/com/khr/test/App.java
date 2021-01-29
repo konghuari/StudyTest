@@ -17,6 +17,7 @@ public class App
 {
     private String domains;
     private String set01;
+<<<<<<< HEAD
     private String set02;
     private String set03;
     private String set04;
@@ -52,6 +53,8 @@ public class App
     public void setSet04(String set04) {
         this.set04 = set04;
     }
+=======
+>>>>>>> parent of 38a9e2d... 第二次提交
 
     public String getDomains() {
         return domains;
