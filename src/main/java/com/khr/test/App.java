@@ -21,6 +21,8 @@ public class App
     private String set03;
     private String set04;
     private String set05;
+    private String set06;
+
     public String getSet01() {
         return set01;
     }
