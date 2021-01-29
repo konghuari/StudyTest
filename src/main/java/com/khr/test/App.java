@@ -22,7 +22,7 @@ public class App
     private String set04;
     private String set05;
     private String set06;
-
+    private String set07;
     public String getSet01() {
         return set01;
     }
