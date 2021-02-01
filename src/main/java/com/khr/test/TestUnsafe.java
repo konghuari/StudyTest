@@ -9,7 +9,6 @@
  * 作者姓名           修改时间           版本号              描述
  */
 package com.khr.test;
-import org.junit.jupiter.api.DynamicTest;
 import sun.misc.Unsafe;
 
 import java.lang.reflect.Field;
@@ -31,7 +30,7 @@ public class TestUnsafe {
         boolean success = unsafe.compareAndSwapInt(t, offset, 0, 1);
         System.out.println(success);
         System.out.println(t.i);
-        //unsafe.compareAndSwapInt()
+        //unsafe.compareAndSwapIntAndSwapInt()
     }
 
 
